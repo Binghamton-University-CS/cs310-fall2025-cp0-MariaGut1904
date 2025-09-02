@@ -1,4 +1,4 @@
-Full Name:
+Full Name: 
 GitHub ID:
 Binghamton CS userid:
 Discord name:
